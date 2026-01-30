@@ -1,0 +1,6 @@
+<Response>
+  <Say voice="alice">
+    Alert. Accident detected.
+    Please check your SMS for the live Google Maps location.
+  </Say>
+</Response>
